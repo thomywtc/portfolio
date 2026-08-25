@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="EClxL4i6d1w7jxqI7xUg">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="INITIAL QUESTIONS" id="EClxL4i6d1w7jxqI7xUg">
     <mxGraphModel dx="2028" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -357,6 +357,153 @@
             </Array>
             <mxPoint x="640" y="790" as="sourcePoint" />
             <mxPoint x="620" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XWFQBO136bIGuAKYMFgF" name="Travel &amp; Residence">
+    <mxGraphModel dx="2264" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GxbysH2sBf0InsFubE2b-3" edge="1" parent="1" source="GxbysH2sBf0InsFubE2b-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GxbysH2sBf0InsFubE2b-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GxbysH2sBf0InsFubE2b-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Inicio: Formulario PEA &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;gf_step_label&quot; style=&quot;color: light-dark(rgb(212, 212, 212), rgb(145, 93, 71));&quot;&gt;Travel &amp;amp; Residence&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="315" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GxbysH2sBf0InsFubE2b-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;In the last 5 years did you reside&lt;br&gt; outside the United States due to (a) having a U.S. citizen spouse in the military or (b) having a U.S. citizen spouse who worked outside the U.S. for another organization or company?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="335" x="258" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="40UpWWIaGXdtNQ-cpG8O-1" edge="1" parent="1" source="GxbysH2sBf0InsFubE2b-2" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="40UpWWIaGXdtNQ-cpG8O-3" value="YES">
+          <mxGeometry relative="1" width="80" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40UpWWIaGXdtNQ-cpG8O-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;You may qualify for an exemption &lt;br&gt;from the residence and physical presence requirements in the United &lt;br&gt;States.  At the same time, this exemption requires providing information&lt;br&gt; which is outside of the scope of services for Naturalization Made Easy &lt;br&gt;(“NME”).  Therefore, please indicate as follows:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="405" x="440" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0000,#3399FF);" value="NEXT PAGE" vertex="1">
+          <mxGeometry height="40" width="120" x="450" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-4" edge="1" parent="1" source="40UpWWIaGXdtNQ-cpG8O-3" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-2" value="I wish to take advantage of the exemption to the physical presence and &lt;br/&gt;residence requirements; consequently, I agree that I will either file &lt;br/&gt;for naturalization myself or retain counsel for timely filing on my &lt;br/&gt;eligibility date">
+          <mxGeometry relative="1" width="80" x="-0.818" y="56" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="610" y="440" as="sourcePoint" />
+            <mxPoint x="744" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span class=&quot;gform-field-label__text&quot;&gt;While a Legal Permanent Resident have you traveled outside the U.S. in a single trip for longer than 1 year?&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="320" x="105" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-6" edge="1" parent="1" source="40UpWWIaGXdtNQ-cpG8O-3" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-5" value="&lt;label for=&quot;choice_78_106_1&quot; id=&quot;label_78_106_1&quot; class=&quot;gform-field-label gform-field-label--type-inline&quot;&gt;Although&lt;br&gt; I may have an exemption to the physical presence and residence &lt;br&gt;requirements, I wish to proceed with my application using the standard &lt;br&gt;physical presence and residence requirements used by NME.&lt;/label&gt;">
+          <mxGeometry relative="1" width="80" x="0.3784" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="534" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-7" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-5" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-2" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.6667" y="5" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="560" y="660" as="sourcePoint" />
+            <mxPoint x="694" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Have you traveled outside the U.S. in a single trip for longer than 6 months during the last 5 years?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="205" x="105" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-9" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-5" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-8" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.2593" y="-7" as="geometry">
+            <mxPoint x="-5" y="-2" as="offset" />
+            <mxPoint x="350" y="680" as="sourcePoint" />
+            <mxPoint x="484" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;span class=&quot;gform-field-label__text&quot;&gt;If you have traveled outside the &lt;br&gt;U.S. during your waiting period, have you been present in the U.S. for at least one-half (1/2) the regular statutory period (30 months)?&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="335" x="30" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-11" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-10" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.705" y="6" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="258.8" y="705" />
+              <mxPoint x="420" y="705" />
+              <mxPoint x="420" y="910" />
+            </Array>
+            <mxPoint x="320" y="800" as="sourcePoint" />
+            <mxPoint x="338" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Did you return to the U. S. no later than {DATE} from your trip that exceeded 6 months?" vertex="1">
+          <mxGeometry height="60" width="292.5" x="-20" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-13" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-12" value="YES">
+          <mxGeometry relative="1" width="80" x="0.0474" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="210" y="770" as="sourcePoint" />
+            <mxPoint x="228" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-14" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-12" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-10" value="YES">
+          <mxGeometry relative="1" width="80" x="0.0474" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="307" y="890" as="sourcePoint" />
+            <mxPoint x="250" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-15" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-12" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-10" value="NO">
+          <mxGeometry relative="1" width="80" x="0.0172" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="650" y="890" as="sourcePoint" />
+            <mxPoint x="691" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-16" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-10" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;libavoidRouting=1;" target="yrIqfLYaSQJHpYRzYfIi-2" value="YES">
+          <mxGeometry relative="1" width="80" x="0.0474" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="281" y="970" />
+              <mxPoint x="510" y="970" />
+            </Array>
+            <mxPoint x="330" y="990" as="sourcePoint" />
+            <mxPoint x="280" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-21" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;libavoidRouting=1;" target="yrIqfLYaSQJHpYRzYfIi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1025" />
+              <mxPoint x="390" y="1035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;This can be cured with passage of &#xa;time.  If you remain in the U. S., without leaving, how many more months&#xa; would you need to reach the 30-month requirement?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="50" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-20" edge="1" parent="1" source="yrIqfLYaSQJHpYRzYfIi-10" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-19" value="NO">
+          <mxGeometry relative="1" width="80" x="0.0172" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="110" y="960" as="sourcePoint" />
+            <mxPoint x="142" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrIqfLYaSQJHpYRzYfIi-22" edge="1" parent="1" source="GxbysH2sBf0InsFubE2b-2" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yrIqfLYaSQJHpYRzYfIi-5" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.7835" y="-12" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="341.8" y="290" />
+              <mxPoint x="89" y="290" />
+              <mxPoint x="89" y="510" />
+            </Array>
+            <mxPoint x="210" y="260" as="sourcePoint" />
+            <mxPoint x="228" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
