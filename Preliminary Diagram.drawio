@@ -7,10 +7,12 @@
         <mxCell id="eF85P1Nfrh2I-foR_ApM-8" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Are you currently married?&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="i2WSodbLBliUtpwUEdw6-6" edge="1" parent="1" source="eF85P1Nfrh2I-foR_ApM-8" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="i2WSodbLBliUtpwUEdw6-7" value="&lt;div&gt;NO&lt;/div&gt;">
+        <mxCell id="i2WSodbLBliUtpwUEdw6-6" edge="1" parent="1" source="eF85P1Nfrh2I-foR_ApM-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="i2WSodbLBliUtpwUEdw6-7" value="&lt;div&gt;NO&lt;/div&gt;">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="740" y="340" />
+            </Array>
             <mxPoint x="285" y="390" as="sourcePoint" />
             <mxPoint x="160" y="440" as="targetPoint" />
           </mxGeometry>
@@ -21,10 +23,9 @@
         <mxCell id="i2WSodbLBliUtpwUEdw6-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Were you previously married (now divorced) AND currently have an I-751 Petition which remains undecided by USCIS?&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="260" x="610" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="i2WSodbLBliUtpwUEdw6-8" edge="1" parent="1" source="eF85P1Nfrh2I-foR_ApM-8" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="i2WSodbLBliUtpwUEdw6-9" value="YES">
+        <mxCell id="i2WSodbLBliUtpwUEdw6-8" edge="1" parent="1" source="eF85P1Nfrh2I-foR_ApM-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="i2WSodbLBliUtpwUEdw6-9" value="YES">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="230" y="360" as="sourcePoint" />
             <mxPoint x="100" y="440" as="targetPoint" />
           </mxGeometry>
@@ -78,10 +79,9 @@
         <mxCell id="maKmKcCoxoqC48uVMK7L-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Is your U.S. citizen spouse a citizen by birth or has your U.S. citizen spouse been a U.S. citizen for the last 3 years?&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="260" x="380" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="maKmKcCoxoqC48uVMK7L-10" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="maKmKcCoxoqC48uVMK7L-9" value="YES">
+        <mxCell id="maKmKcCoxoqC48uVMK7L-10" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-1" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="maKmKcCoxoqC48uVMK7L-9" value="YES">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="121" y="570" as="sourcePoint" />
             <mxPoint x="120" y="658" as="targetPoint" />
           </mxGeometry>
@@ -92,10 +92,9 @@
         <mxCell id="maKmKcCoxoqC48uVMK7L-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;By date, will you have lived with your spouse for 3 years?&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="555" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="maKmKcCoxoqC48uVMK7L-12" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.633;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="maKmKcCoxoqC48uVMK7L-11" value="&lt;div&gt;NO&lt;/div&gt;">
+        <mxCell id="maKmKcCoxoqC48uVMK7L-12" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-1" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.633;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="maKmKcCoxoqC48uVMK7L-11" value="&lt;div&gt;NO&lt;/div&gt;">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="440" y="370" as="sourcePoint" />
             <mxPoint x="610" y="460" as="targetPoint" />
           </mxGeometry>
@@ -103,20 +102,16 @@
         <mxCell id="maKmKcCoxoqC48uVMK7L-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;By date, will your U. S. Citizen spouse have been a U.S. Citizen for three (3) years?&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="260" x="390" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="maKmKcCoxoqC48uVMK7L-16" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-9" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.44;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" target="maKmKcCoxoqC48uVMK7L-14" value="&lt;div&gt;NO&lt;/div&gt;">
+        <mxCell id="maKmKcCoxoqC48uVMK7L-16" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-9" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.44;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="maKmKcCoxoqC48uVMK7L-14" value="&lt;div&gt;NO&lt;/div&gt;">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="430" y="790" as="sourcePoint" />
             <mxPoint x="505" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="maKmKcCoxoqC48uVMK7L-17" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-14" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="maKmKcCoxoqC48uVMK7L-5" value="&lt;div&gt;NO&lt;/div&gt;">
+        <mxCell id="maKmKcCoxoqC48uVMK7L-17" edge="1" parent="1" source="maKmKcCoxoqC48uVMK7L-14" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="maKmKcCoxoqC48uVMK7L-5" value="&lt;div&gt;NO&lt;/div&gt;">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="530" y="1100" />
-            </Array>
             <mxPoint x="420" y="810" as="sourcePoint" />
             <mxPoint x="495" y="890" as="targetPoint" />
           </mxGeometry>
@@ -148,7 +143,8 @@
           <mxGeometry height="170" width="235" x="332.5" y="130" as="geometry" />
         </mxCell>
         <mxCell id="I3hxtu8acq4ZSOf-ygiM-8" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-7" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eF85P1Nfrh2I-foR_ApM-8" value="no">
-          <mxGeometry relative="1" x="-1" as="geometry">
+          <mxGeometry relative="1" x="-0.5467" y="-5" as="geometry">
+            <mxPoint as="offset" />
             <mxPoint x="790" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -169,10 +165,9 @@
         <mxCell id="I3hxtu8acq4ZSOf-ygiM-14" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Do you have an I-751 “Petition to Remove Conditions on Residence” which remains undecided by USCIS?&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="260" x="910" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="I3hxtu8acq4ZSOf-ygiM-15" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-10" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I3hxtu8acq4ZSOf-ygiM-14" value="YES">
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-15" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-10" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="I3hxtu8acq4ZSOf-ygiM-14" value="YES">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="950" y="300" as="sourcePoint" />
             <mxPoint x="1480" y="370" as="targetPoint" />
           </mxGeometry>
@@ -180,10 +175,9 @@
         <mxCell id="I3hxtu8acq4ZSOf-ygiM-16" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Even if you do not have a pending I-751 Petition, and you are now divorced, did you rely upon marriage to obtain your legal permanent residency?&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="390" x="885" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="I3hxtu8acq4ZSOf-ygiM-17" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-14" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.71;exitY=1.05;exitDx=0;exitDy=0;entryX=0.521;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="I3hxtu8acq4ZSOf-ygiM-16" value="&lt;div&gt;NO&lt;/div&gt;">
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-17" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-14" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.71;exitY=1.05;exitDx=0;exitDy=0;entryX=0.521;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="I3hxtu8acq4ZSOf-ygiM-16" value="&lt;div&gt;NO&lt;/div&gt;">
           <mxGeometry relative="1" width="80" y="10" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points" />
             <mxPoint x="480" y="370" as="sourcePoint" />
             <mxPoint x="1010" y="440" as="targetPoint" />
           </mxGeometry>
@@ -191,8 +185,9 @@
         <mxCell id="I3hxtu8acq4ZSOf-ygiM-18" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Is your marriage, which you used to obtain legal permanent residency, subject to scrutiny because the spouse who petitioned for youor some other person with knowledge, made a&amp;nbsp;claim or report that the marriage was not in good faith?&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="430" x="950" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="I3hxtu8acq4ZSOf-ygiM-19" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-16" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I3hxtu8acq4ZSOf-ygiM-18" value="yes">
-          <mxGeometry relative="1" x="-1" as="geometry">
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-19" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-16" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I3hxtu8acq4ZSOf-ygiM-18" value="YES">
+          <mxGeometry relative="1" x="-0.6992" y="13" as="geometry">
+            <mxPoint x="-1" as="offset" />
             <Array as="points">
               <mxPoint x="1177.5" y="730" />
               <mxPoint x="1165" y="730" />
@@ -201,15 +196,78 @@
             <mxPoint x="1266" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3hxtu8acq4ZSOf-ygiM-20" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-16" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="I3hxtu8acq4ZSOf-ygiM-13" value="no">
-          <mxGeometry relative="1" x="-1" as="geometry">
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-20" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-16" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="I3hxtu8acq4ZSOf-ygiM-13" value="&lt;div&gt;NO&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.9512" y="10" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="880" y="610" />
+              <mxPoint x="1080" y="740" />
+              <mxPoint x="880" y="740" />
               <mxPoint x="880" y="1240" />
             </Array>
             <mxPoint x="1323" y="920" as="sourcePoint" />
             <mxPoint x="1200" y="985" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-22" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-18" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="I3hxtu8acq4ZSOf-ygiM-13" value="yes">
+          <mxGeometry relative="1" x="-0.6992" y="13" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="1200" y="990" />
+              <mxPoint x="1200" y="1370" />
+              <mxPoint x="435" y="1370" />
+            </Array>
+            <mxPoint x="1193" y="1100" as="sourcePoint" />
+            <mxPoint x="1180" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-23" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-18" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=light-dark(#FF0000,#FFFFFF);rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="I3hxtu8acq4ZSOf-ygiM-13" value="no">
+          <mxGeometry relative="1" x="-0.9512" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1060" y="990" />
+              <mxPoint x="1060" y="1340" />
+              <mxPoint x="435" y="1340" />
+            </Array>
+            <mxPoint x="1320" y="650" as="sourcePoint" />
+            <mxPoint x="1070" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-29" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I3hxtu8acq4ZSOf-ygiM-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-30" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I3hxtu8acq4ZSOf-ygiM-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-31" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=1;" target="I3hxtu8acq4ZSOf-ygiM-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1891" y="470" />
+              <mxPoint x="1891" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Having a pending I-751 Petition &lt;br/&gt;for Removal of Conditions of Residence will not prevent you from seeking&lt;br/&gt; Naturalization so long as there were no issues with the marriage at any&lt;br/&gt; time&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="275" x="1350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-25" edge="1" parent="1" source="I3hxtu8acq4ZSOf-ygiM-14" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="I3hxtu8acq4ZSOf-ygiM-24" value="YES">
+          <mxGeometry relative="1" width="80" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1130" y="310" as="sourcePoint" />
+            <mxPoint x="1325" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;I have at all times, including up to the present, been in marital union with my spouse who petitioned for my legal permanent residency, i.e., we were never separated or divorced&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="305" x="1300" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;label for=&quot;choice_78_102_1&quot; id=&quot;label_78_102_1&quot; class=&quot;gform-field-label gform-field-label--type-inline&quot;&gt;From my date of marriage until the present, there was a period of time in which I was separated or divorced from my spouse who petitioned for my &lt;br&gt;legal permanent residency.&lt;/label&gt;" vertex="1">
+          <mxGeometry height="80" width="290" x="1450" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hxtu8acq4ZSOf-ygiM-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="I should have filed an I-751 Petition to Remove Conditions on Residence but failed to do so." vertex="1">
+          <mxGeometry height="60" width="250" x="1625" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
