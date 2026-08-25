@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="9">
   <diagram name="INITIAL QUESTIONS" id="EClxL4i6d1w7jxqI7xUg">
     <mxGraphModel dx="2028" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
@@ -721,6 +721,235 @@
             </Array>
             <mxPoint x="130" y="460" as="sourcePoint" />
             <mxPoint x="315" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Tax" id="ztxu5BXoLSHrythaIf36">
+    <mxGraphModel dx="1414" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-0" />
+        <mxCell id="EVD579Ej8cioNzLWhZRt-1" parent="EVD579Ej8cioNzLWhZRt-0" />
+        <mxCell id="EVD579Ej8cioNzLWhZRt-2" edge="1" parent="EVD579Ej8cioNzLWhZRt-1" source="EVD579Ej8cioNzLWhZRt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EVD579Ej8cioNzLWhZRt-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-4" parent="EVD579Ej8cioNzLWhZRt-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Inicio: Formulario PEA &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;gf_step_label&quot; style=&quot;color: light-dark(rgb(212, 212, 212), rgb(145, 93, 71));&quot;&gt;Tax&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="315" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-5" edge="1" parent="EVD579Ej8cioNzLWhZRt-1" source="EVD579Ej8cioNzLWhZRt-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="EVD579Ej8cioNzLWhZRt-9" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.6723" y="16" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="704" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-6" edge="1" parent="EVD579Ej8cioNzLWhZRt-1" source="EVD579Ej8cioNzLWhZRt-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="EVD579Ej8cioNzLWhZRt-7" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-7" parent="EVD579Ej8cioNzLWhZRt-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0000,#3399FF);" value="NEXT PAGE" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-8" parent="EVD579Ej8cioNzLWhZRt-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Have you filed your tax returns and paid taxes for the last five 5 years?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-9" parent="EVD579Ej8cioNzLWhZRt-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Will you be able to file the tax &lt;br/&gt;forms and pay the taxes before you file for Naturalization?  If not, &lt;br/&gt;will you at least be able to do the following: (a) file the tax form, if&lt;br/&gt; you haven&#39;t filed already (without payment), and (b) regarding the &lt;br/&gt;payment, enter into an Installment payment agreement before your &lt;br/&gt;interview?  (Tax need not be paid if installment agreement entered.)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="400" x="390" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-10" edge="1" parent="EVD579Ej8cioNzLWhZRt-1" source="EVD579Ej8cioNzLWhZRt-9" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="EVD579Ej8cioNzLWhZRt-7" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.6723" y="16" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="859" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVD579Ej8cioNzLWhZRt-11" edge="1" parent="EVD579Ej8cioNzLWhZRt-1" source="EVD579Ej8cioNzLWhZRt-9" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="EVD579Ej8cioNzLWhZRt-7" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="590" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Child Support" id="tnRz8ViqY8ztfOAHUAyO">
+    <mxGraphModel dx="1414" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-0" />
+        <mxCell id="FP0dYjl86RH5hVw1plz6-1" parent="FP0dYjl86RH5hVw1plz6-0" />
+        <mxCell id="FP0dYjl86RH5hVw1plz6-2" edge="1" parent="FP0dYjl86RH5hVw1plz6-1" source="FP0dYjl86RH5hVw1plz6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FP0dYjl86RH5hVw1plz6-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-3" parent="FP0dYjl86RH5hVw1plz6-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Inicio: Formulario PEA &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;gf_step_label&quot; style=&quot;color: light-dark(rgb(212, 212, 212), rgb(145, 93, 71));&quot;&gt;Child Support&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="315" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-4" edge="1" parent="FP0dYjl86RH5hVw1plz6-1" source="FP0dYjl86RH5hVw1plz6-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="FP0dYjl86RH5hVw1plz6-8" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.5019" y="7" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="704" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-5" edge="1" parent="FP0dYjl86RH5hVw1plz6-1" source="FP0dYjl86RH5hVw1plz6-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="FP0dYjl86RH5hVw1plz6-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="160" y="165" />
+              <mxPoint x="160" y="570" />
+            </Array>
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-6" parent="FP0dYjl86RH5hVw1plz6-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0000,#3399FF);" value="NEXT PAGE" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-7" parent="FP0dYjl86RH5hVw1plz6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Do you owe any child support &lt;br/&gt;payments or otherwise failed to support a dependant child (if no court &lt;br/&gt;order exists)?  Or do you owe any court ordered financial support after &lt;br/&gt;divorce or separation (“alimony”)?  If there is no court order they may &lt;br/&gt;not answer this correctly in light of your clarification, “provide proof&lt;br/&gt; that you are supporting a dependent child&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="440" x="205" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-8" parent="FP0dYjl86RH5hVw1plz6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;You must comply with all court &lt;br/&gt;ordered child support payments, and if no court order exists, you must &lt;br/&gt;provide proof that you are supporting a dependent child.  Will you be &lt;br/&gt;able to comply with this requirement prior to the interview?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="390" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-9" edge="1" parent="FP0dYjl86RH5hVw1plz6-1" source="FP0dYjl86RH5hVw1plz6-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="FP0dYjl86RH5hVw1plz6-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.6723" y="16" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="859" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP0dYjl86RH5hVw1plz6-10" edge="1" parent="FP0dYjl86RH5hVw1plz6-1" source="FP0dYjl86RH5hVw1plz6-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="FP0dYjl86RH5hVw1plz6-6" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="590" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Legal Issues" id="Lq9KEH21WYUIEDjyYSue">
+    <mxGraphModel dx="1414" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-0" />
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-1" parent="Yg6YtDdj-GtnuQu2GOV9-0" />
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-2" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Yg6YtDdj-GtnuQu2GOV9-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="110" />
+              <mxPoint x="235" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oIKpElrYG1MrTlpmpI4I-0" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yg6YtDdj-GtnuQu2GOV9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-3" parent="Yg6YtDdj-GtnuQu2GOV9-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Inicio: Formulario PEA &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;gf_step_label&quot; style=&quot;color: light-dark(rgb(212, 212, 212), rgb(145, 93, 71));&quot;&gt;Legal Issues&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="315" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-4" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Yg6YtDdj-GtnuQu2GOV9-6" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.7808" y="5" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="704" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-5" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;libavoidRouting=1;" target="Yg6YtDdj-GtnuQu2GOV9-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="157.5" y="570" />
+            </Array>
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-6" parent="Yg6YtDdj-GtnuQu2GOV9-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0000,#3399FF);" value="NEXT PAGE" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-7" parent="Yg6YtDdj-GtnuQu2GOV9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Not now nor ever been in removal / deportation proceedings?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-8" parent="Yg6YtDdj-GtnuQu2GOV9-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Left the U.S. for 30 days or more while receiving public benefits?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="470" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-9" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="Yg6YtDdj-GtnuQu2GOV9-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.8824" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="859" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg6YtDdj-GtnuQu2GOV9-10" edge="1" parent="Yg6YtDdj-GtnuQu2GOV9-1" source="Yg6YtDdj-GtnuQu2GOV9-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;libavoidRouting=1;" target="Yg6YtDdj-GtnuQu2GOV9-6" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="610" y="385" />
+              <mxPoint x="300" y="385" />
+            </Array>
+            <mxPoint x="590" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Criminal History" id="LPruAUEF_cWwxZKN7IUm">
+    <mxGraphModel dx="1414" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-0" />
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-1" parent="ZzO0w7LFEtTzGXnGAIMz-0" />
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-2" edge="1" parent="ZzO0w7LFEtTzGXnGAIMz-1" source="ZzO0w7LFEtTzGXnGAIMz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZzO0w7LFEtTzGXnGAIMz-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-3" parent="ZzO0w7LFEtTzGXnGAIMz-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Inicio: Formulario PEA&lt;br&gt;Criminal History&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="315" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-4" edge="1" parent="ZzO0w7LFEtTzGXnGAIMz-1" source="ZzO0w7LFEtTzGXnGAIMz-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="ZzO0w7LFEtTzGXnGAIMz-8" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.5019" y="7" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="704" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-5" edge="1" parent="ZzO0w7LFEtTzGXnGAIMz-1" source="ZzO0w7LFEtTzGXnGAIMz-7" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;libavoidRouting=1;" target="ZzO0w7LFEtTzGXnGAIMz-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.9201" y="-9" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="88.8" y="720" />
+            </Array>
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-6" parent="ZzO0w7LFEtTzGXnGAIMz-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0000,#3399FF);" value="NEXT PAGE" vertex="1">
+          <mxGeometry height="40" width="120" x="290" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-7" parent="ZzO0w7LFEtTzGXnGAIMz-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Ever assist anyone to illegally enter into the U.S. during the last 5 years?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="195" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-8" parent="ZzO0w7LFEtTzGXnGAIMz-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;gform-field-label__text&quot;&gt;Was that person either your parent, spouse, son, or daughter (&quot;immediate relatives&quot;)?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="110" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-9" edge="1" parent="ZzO0w7LFEtTzGXnGAIMz-1" source="ZzO0w7LFEtTzGXnGAIMz-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ZzO0w7LFEtTzGXnGAIMz-6" value="NO">
+          <mxGeometry relative="1" width="80" x="-0.8049" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="859" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzO0w7LFEtTzGXnGAIMz-10" edge="1" parent="ZzO0w7LFEtTzGXnGAIMz-1" source="ZzO0w7LFEtTzGXnGAIMz-8" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;libavoidRouting=1;" target="ZzO0w7LFEtTzGXnGAIMz-6" value="YES">
+          <mxGeometry relative="1" width="80" x="-0.8272" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="230" y="710" />
+            </Array>
+            <mxPoint x="590" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
